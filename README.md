@@ -6,5 +6,5 @@
 - Notebook file(.ipynb).
 - Presentation of the result
 - README.md file.
-###
-- **Note:**Add your teammates names on the description of the pull request
+### Note:
+- Add your teammates names on the description of the pull request
