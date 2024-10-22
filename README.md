@@ -47,3 +47,9 @@ The following Exploratory Data Analysis (EDA) steps were applied:
 6. **Outliers in the Rankings**: A few universities rank unexpectedly higher or lower due to outliers in specific categories such as research funding or international collaboration.
    - *Chart*: Boxplot identifying outliers.
 ![alt text](images/check_outlier.png) ![alt text](images/check_outlier2.png) ![alt text](images/check_outlier3.png)
+
+7. **More Insightful Charts**
+![alt text](images/b_world.png)
+![alt text](images/c_shanghai.png) ![alt text](images/c_times.png) ![alt text](images/c_world.png)
+![alt text](images/e_shanghai.png) ![alt text](images/e_shanghai2.png)
+![alt text](images/e_world.png) ![alt text](images/f_times.png) ![alt text](images/f2_times.png)
