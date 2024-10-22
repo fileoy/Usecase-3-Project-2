@@ -1,6 +1,6 @@
 # University Rankings Analysis
 
-**Team Members**: Faisal Alkulaib, Lama Albeshri, Muhannad Alahmadi, Ghadah Alsulami, Raghad Alorawi
+**Team Members**: Faisal Alkulaib, Lama Albeshri, Muhannad Alahmadi, Ghadah Alsulami, Raghad Alerowi
 
 ## Introduction (Problem, Objectives)
 University rankings play a significant role in influencing decisions made by students, faculty, and policymakers. The objective of this project is to analyze three prominent university ranking datasets (Shanghai, Times Higher Education, and World University Rank) to uncover insights about global academic institutions and their performance across various metrics. The analysis aims to provide a clearer understanding of which factors drive high rankings and how universities compare across regions and categories.
